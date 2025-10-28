@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tcaforio
 - 👀 I’m interested in great doftware, hiking, and film!
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning ML and AI
 - 📫 How to reach me Tcaforio4@gmail.com
 
 <!---
