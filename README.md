@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tcaforio
-- 👀 I’m interested in great doftware, hiking, and film!
-- 🌱 I’m currently learning ML and AI
+- 👀 I’m interested in physics, alpine biomes, and film!
+- 🌱 I’m currently tinkering around to apply cutting edge AI to revolutionize customer success.
 - 📫 How to reach me Tcaforio4@gmail.com
 
 <!---
