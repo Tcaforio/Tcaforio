@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tcaforio
-- 👀 I’m interested in physics, alpine biomes, and film!
-- 🌱 I’m currently tinkering around to apply cutting edge AI to revolutionize customer success.
+- 👀 I’m interested in physics, alpine biomes, software, and film!
+- 🌱 I’m currently working on Haven to build the future of company memory and context for AI.
 - 📫 How to reach me Tcaforio4@gmail.com
 
 <!---
